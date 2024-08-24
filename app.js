@@ -1,2 +1,2 @@
 console.log ("Ejecutando el sistema")
-alert ('hola mundo');
+alert('Ingresa un texto en el encriptador');
