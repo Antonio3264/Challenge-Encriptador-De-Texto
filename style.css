@@ -7,18 +7,10 @@
     position: relative;
     width: 100vw;
     height: 100vh;
-    background: #c4c9dd;
+    background: #0635ee;
   }
   .logo{
-    display: flex;
-    flex-direction: row;
    
-    padding: 1% 0;
-    position: absolute;
-    width: 8%;
-    left: 12%;
-   
-    gap: 15px;
     
 
   }
@@ -34,11 +26,11 @@
     font-weight: 400;
     font-size: 32px;
     line-height: 150%;
-    background-color: #f3f5fc;
+    background-color: #eaeaeb;
   }
   
   .texto::placeholder {
-    color: #0a3871;
+    color: #053064;
   }
   
   .texto:focus,
@@ -90,7 +82,7 @@
     padding: 1%;
     gap: 8px;
     width: 25%;
-    background-color: #004dac;
+    background-color: #0f0f0f;
     border-radius: 24px;
     font-family: "Inter";
     font-size: 18px;
@@ -160,7 +152,7 @@
     font-size: 24px;
     line-height: 120%;
     text-align: center;
-    color: #343a40;
+    color: #0b0c0c;
   }
   
   .mensaje-encriptado p {
